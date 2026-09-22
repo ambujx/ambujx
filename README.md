@@ -209,15 +209,24 @@ My current public work reflects a focus on **learning by building small, functio
 # 📈 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambujx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ambuj's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ambujx&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Ambuj's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ambujx&theme=tokyonight&hide_border=true" alt="Ambuj's GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=ambujx&theme=tokyonight&hide_border=true"
+    alt="Ambuj's GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambujx&theme=tokyonight" alt="Ambuj's GitHub Profile Summary" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambujx&theme=tokyonight"
+    alt="Ambuj's GitHub Profile Summary"
+  />
 </p>
 
 ---
@@ -226,9 +235,18 @@ My current public work reflects a focus on **learning by building small, functio
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ambujx/ambujx/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ambujx/ambujx/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/ambujx/ambujx/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ambujx/ambujx/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ambujx/ambujx/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/ambujx/ambujx/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
   </picture>
 </p>
 
@@ -239,7 +257,10 @@ My current public work reflects a focus on **learning by building small, functio
 <p align="center">
 
 <a href="https://github.com/ambujx">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    alt="GitHub"
+  />
 </a>
 
 </p>
