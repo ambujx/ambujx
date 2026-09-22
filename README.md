@@ -206,14 +206,7 @@ My current public work reflects a focus on **learning by building small, functio
 
 ---
 
-# 📈 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ambujx&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Ambuj's GitHub Stats"
-  />
-</p>
+# 📈 GitHub Activity
 
 <p align="center">
   <img
