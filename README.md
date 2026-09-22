@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ambuj
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Python+Developer+%F0%9F%90%8D;Problem+Solver+%F0%9F%A7%A9;CLI+Application+Builder+%E2%8C%A8%EF%B8%8F;Computer+Science+Student+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Python+Developer+%F0%9F%90%8D;Problem+Solver+%F0%9F%A7%A9;CLI+Application+Builder+%E2%8C%A8%EF%B8%8F;Computer+Science+Student+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ambujx">
-    <img src="https://img.shields.io/badge/GitHub-ambujx-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-ambujx-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ Learning Approach:
 ### 🐍 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=python&perline=8" alt="Python" />
 </p>
 
 * Python
@@ -71,7 +71,7 @@ Learning Approach:
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" alt="Git, GitHub and VS Code" />
 </p>
 
 * Git
@@ -209,15 +209,15 @@ My current public work reflects a focus on **learning by building small, functio
 # 📈 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambujx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ambujx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ambuj's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ambujx&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ambujx&theme=tokyonight&hide_border=true" alt="Ambuj's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambujx&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambujx&theme=tokyonight" alt="Ambuj's GitHub Profile Summary" />
 </p>
 
 ---
@@ -225,7 +225,11 @@ My current public work reflects a focus on **learning by building small, functio
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ambujx/ambujx/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ambujx/ambujx/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ambujx/ambujx/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
 </p>
 
 ---
@@ -235,7 +239,7 @@ My current public work reflects a focus on **learning by building small, functio
 <p align="center">
 
 <a href="https://github.com/ambujx">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 
 </p>
