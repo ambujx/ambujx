@@ -263,7 +263,7 @@ My current public work reflects a focus on **learning by building small, functio
 <p align="center">
 
 ### 🚀 Learn. Build. Improve.
-
+<img alt="Coding" width="100" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif">
 **Thanks for visiting my profile!**
 
 </p>
